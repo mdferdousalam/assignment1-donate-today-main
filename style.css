@@ -1,0 +1,169 @@
+body{
+    margin: 0%;
+    font-family: 'Ephesis', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+/*--------------------------- banner sections css----------- */
+.banner{
+    background-image: url(images/donation12.png);
+    background-repeat: no-repeat;
+    color: #ff085eed;
+    padding-top: 400px;
+    text-align: center;
+    height: 450px;
+}
+.banner h1{
+    font-size: 100px;
+    margin-bottom: 0%;
+}
+
+.banner p{
+    font-size: 28px;
+    margin-bottom: 50px;
+    color: rgb(253, 253, 253);
+}
+
+.link-button{
+    text-decoration: none;
+    font-weight: 700;
+    color: azure;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+/* ===================================================== */
+
+
+
+/* ============================Donation section css=============================== */
+.donation-section{
+    text-align: center;
+}
+
+.donation-section p{
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+#donation-title{
+    font-size: 50px;
+}
+.donation-amounts{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.donation-items{
+    background-color:whitesmoke;
+    margin-left: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 5%;
+   
+}
+
+#selected-donation-item{
+    background-color: rgb(238, 200, 200);
+    color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10%;
+    width: 5%;
+}
+/* =========================================================== */
+
+
+
+/* =========================Donation Plans css=============== */
+
+.donation-plans{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 18px;
+}
+#donation-plans-title{
+    font-size: 50px;
+}
+.donation-plans-item{
+    display: flex;
+    margin-bottom: 100px;
+    }
+
+#donation-plans-item1{
+    list-style: none;
+    background-color:rgb(209, 233, 234) ;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 20%;
+    padding: 25px 25px;
+}
+
+#donation-plans-item2{
+    list-style: none;
+    background-color:rgb(234, 209, 228) ;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 20%;
+    padding: 25px 25px;
+}
+
+#donation-plans-item3{
+    list-style: none;
+    background-color:rgb(234, 229, 209) ;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 20%;
+    padding: 25px 25px;
+}
+/* ===================================================================== */
+
+
+
+
+/*================ Recent works section css=============== */
+
+
+/* ============================================================== */
+
+
+
+/* =======================Our Team section css===================*/
+
+/* ================================================================ */
+
+
+/* =============email subscription section=========== */
+
+.email-subscription-section{
+text-align: center;
+font-size: 18px;
+margin-bottom: 100px;
+}
+.email-subscription-section h1{
+    font-size: 50px;
+}
+
+#email-box{
+    height: 35px;
+}
+#email-box-background{
+    background-color:rgb(234, 229, 209) ;
+    width: 35%;
+    padding: 50px 10px;
+    margin-left: 32%;
+}
+/* ============================================= */
+
+
+/* ================footer section css=============== */
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+span{
+    color: tomato;
+}
